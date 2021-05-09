@@ -1,11 +1,10 @@
 module.exports = {
+  publicPath: '/masterlog-vue/',
   transpileDependencies: [
     'vuetify'
   ],
-
   runtimeCompiler: true,
-
   pwa: {
-    name: 'MG Sales'
+    name: '@ronakjain2012'
   }
 }
