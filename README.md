@@ -1,6 +1,20 @@
-# catalogue-vue
+# masterlog-vue
+This project is VUE CLI based front-end for generating quick and fast catalogs for business of different background. 
+ 
+ For now the JS (JSON file) which renders the front-end is hosted on npoint.io, for your project you can find fresh copy of JSON file in public folder. 
 
-## Project setup
+To Update JSON file path open App.vue and replace the URL.
+
+This is Beta version of this, soon we will have auto JSON generation and some optimizations in JSON data.
+
+
+## Demo & Screenshot (Sample Data)
+Live Demo @ 
+
+======================================
+![enter image description here](https://lookimg.com/images/2021/05/09/Pby9Yj.png)
+
+## Project setup 
 ```
 npm install
 ```

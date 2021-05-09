@@ -80,7 +80,7 @@ export default {
   mounted() {
     let that = this;
     that.$store.dispatch("incrementApiCall");
-    HTTP.get("https://api.npoint.io/84f2e02c62cb38f057d4", {})
+    HTTP.get("https://api.npoint.io/0fcdc3138e986c95dd3f", {})
       .then(function (response) {
         if (response.status == 200) {
           that.$store.dispatch("incrementApiSuccess");
