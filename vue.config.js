@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/masterlog-vue/',
+  publicPath: '/',
   transpileDependencies: [
     'vuetify'
   ],
