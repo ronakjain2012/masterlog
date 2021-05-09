@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b7d5cd5f02bfa06b7c340b95432c561c.js"
+  "/precache-manifest.b7521f49ede6241b585ce8b3c1fbbbc2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "masterlog-vue"});
