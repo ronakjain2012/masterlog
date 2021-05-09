@@ -1,0 +1,1052 @@
+{
+    "app": {
+      "name": "abs",
+      "logo": "https://ya-webdesign.com/images600_/black-anthropomorphic-cat.png"
+    },
+    "header": {
+      "right": [
+        {
+          "name": "Home",
+          "link_type": "internal",
+          "link": "/",
+          "action": "",
+          "icon": "mdi-axe"
+        },
+        {
+          "name": "About",
+          "link_type": "internal",
+          "link": "",
+          "action": "",
+          "icon": ""
+        },
+        {
+          "name": "Contact",
+          "link_type": "internal",
+          "link": "",
+          "action": "",
+          "icon": ""
+        },
+        {
+          "name": "",
+          "link_type": "internal",
+          "link": "",
+          "action": "",
+          "icon": "mdi-account-hard-hat"
+        }
+      ],
+      "menu": [
+        {
+          "name": "Home",
+          "link_type": "internal",
+          "link": "",
+          "action": "",
+          "icon": "mdi-account-hard-hat",
+          "img": "",
+          "data": [
+            {
+              "name": "Home",
+              "link_type": "internal",
+              "link": "",
+              "action": "",
+              "icon": "",
+              "img": ""
+            }
+          ]
+        }
+      ]
+    },
+    "sections": {
+      "displayAs": [
+        "home",
+        "section1",
+        "section2",
+        "section3",
+        "section4",
+        "section5",
+        "section6",
+        "section7",
+        "section8"
+      ],
+      "sectionSettings": {
+        "home": {
+          "show": true,
+          "name": "Home",
+          "type": "carousel",
+          "data": {
+            "height": "84vh"
+          }
+        },
+        "section1": {
+          "show": true,
+          "name": "Category",
+          "type": "info",
+          "data": {}
+        },
+        "section2": {
+          "show": true,
+          "name": "Top",
+          "type": "mini_info",
+          "data": {}
+        },
+        "section3": {
+          "show": true,
+          "name": "Top",
+          "type": "item_list",
+          "data": {}
+        },
+        "section4": {
+          "show": true,
+          "name": "product_gallery",
+          "type": "product_gallery",
+          "data": {}
+        },
+        "section5": {
+          "show": true,
+          "name": "grid_view",
+          "type": "grid_view",
+          "data": {}
+        },
+        "section6": {
+          "show": true,
+          "name": "Newsletter",
+          "type": "newsletter",
+          "data": {}
+        },
+        "section7": {
+          "show": true,
+          "name": "contactus",
+          "type": "contactus",
+          "data": {}
+        },
+        "section8": {
+          "show": true,
+          "name": "footer1",
+          "type": "footer1",
+          "data": {}
+        }
+      }
+    },
+    "home": {
+      "carousel": {
+        "settings": {
+          "delimiterIcon": "mdi-minus",
+          "hideDelimiterBackground": true,
+          "cycle": true,
+          "showArrowsOnHover": true,
+          "hideDelimiters": true,
+          "interval": 3000
+        },
+        "items": [
+          {
+            "action": "",
+            "background_img": "https://i.onthe.io/0fgjhs78nokughe8s.a26f6192.jpg",
+            "text_color": "#fa23aa",
+            "background_color": "yellow",
+            "top_left": {
+              "show": true,
+              "heading": "want to buy sofa?",
+              "desc1": "desc1111!!!",
+              "desc2": "desc11111222222222222222",
+              "buttons": [
+                {
+                  "name": "",
+                  "link_type": "internal",
+                  "url": "",
+                  "action": "",
+                  "icon": "mdi-heart-settings",
+                  "text": true,
+                  "outlined": false,
+                  "plain": false,
+                  "rounded": false,
+                  "raised": true,
+                  "small": true,
+                  "large": false,
+                  "link": false,
+                  "xLarge": false,
+                  "xSmall": false,
+                  "background": "",
+                  "color": "black"
+                },
+                {
+                  "name": "",
+                  "link_type": "internal",
+                  "url": "",
+                  "action": "",
+                  "icon": "mdi-heart-settings",
+                  "text": true,
+                  "outlined": false,
+                  "plain": false,
+                  "rounded": false,
+                  "raised": true,
+                  "small": true,
+                  "large": false,
+                  "link": false,
+                  "xLarge": false,
+                  "xSmall": false,
+                  "background": "",
+                  "color": "black"
+                },
+                {
+                  "name": "",
+                  "link_type": "internal",
+                  "url": "",
+                  "action": "",
+                  "icon": "mdi-heart-settings",
+                  "text": true,
+                  "outlined": false,
+                  "plain": false,
+                  "rounded": false,
+                  "raised": true,
+                  "small": true,
+                  "large": false,
+                  "link": false,
+                  "xLarge": false,
+                  "xSmall": false,
+                  "background": "",
+                  "color": "black"
+                },
+                {
+                  "name": "",
+                  "link_type": "internal",
+                  "url": "",
+                  "action": "",
+                  "icon": "mdi-heart-settings",
+                  "text": true,
+                  "outlined": false,
+                  "plain": false,
+                  "rounded": false,
+                  "raised": true,
+                  "small": true,
+                  "large": false,
+                  "link": false,
+                  "xLarge": false,
+                  "xSmall": false,
+                  "background": "",
+                  "color": "black"
+                },
+                {
+                  "name": "",
+                  "link_type": "internal",
+                  "url": "",
+                  "action": "",
+                  "icon": "mdi-heart-settings",
+                  "text": true,
+                  "outlined": false,
+                  "plain": false,
+                  "rounded": false,
+                  "raised": true,
+                  "small": true,
+                  "large": false,
+                  "link": false,
+                  "xLarge": false,
+                  "xSmall": false,
+                  "background": "",
+                  "color": "black"
+                }
+              ]
+            },
+            "top_right": {
+              "show": true,
+              "heading": "want to buy sofa?",
+              "desc1": "desc1111!!!",
+              "desc2": "desc11111222222222222222",
+              "buttons": [
+                {
+                  "name": "1st Button",
+                  "link_type": "internal",
+                  "url": "/about",
+                  "action": "",
+                  "icon": "mdi-cupcake",
+                  "text": false,
+                  "outlined": true,
+                  "plain": true,
+                  "rounded": true,
+                  "raised": true,
+                  "small": false,
+                  "large": false,
+                  "link": true,
+                  "xLarge": true,
+                  "xSmall": false,
+                  "background": "#ab1212",
+                  "color": "white"
+                },
+                {
+                  "link_type": "external",
+                  "url": "https://google.com",
+                  "action": "",
+                  "icon": "mdi-cupcake",
+                  "text": false,
+                  "outlined": true,
+                  "plain": true,
+                  "rounded": false,
+                  "raised": true,
+                  "name": "2st Button",
+                  "small": false,
+                  "large": false,
+                  "link": true,
+                  "xLarge": true,
+                  "xSmall": false,
+                  "background": "#ab1212",
+                  "color": "white"
+                }
+              ]
+            },
+            "buttom_left": {
+              "show": true,
+              "heading": "want to buy sofa?",
+              "desc1": "desc1111!!!",
+              "desc2": "desc11111222222222222222",
+              "buttons": [
+                {
+                  "name": "1st Button",
+                  "link_type": "internal",
+                  "url": "/about",
+                  "action": "",
+                  "icon": "mdi-cupcake",
+                  "text": false,
+                  "outlined": true,
+                  "plain": true,
+                  "rounded": true,
+                  "raised": true,
+                  "small": false,
+                  "large": false,
+                  "link": true,
+                  "xLarge": true,
+                  "xSmall": false,
+                  "background": "#ab1212",
+                  "color": "white"
+                },
+                {
+                  "link_type": "external",
+                  "url": "https://google.com",
+                  "action": "",
+                  "icon": "mdi-cupcake",
+                  "text": false,
+                  "outlined": true,
+                  "plain": true,
+                  "rounded": false,
+                  "raised": true,
+                  "name": "2st Button",
+                  "small": false,
+                  "large": false,
+                  "link": true,
+                  "xLarge": true,
+                  "xSmall": false,
+                  "background": "#ab1212",
+                  "color": "white"
+                }
+              ]
+            },
+            "buttom_right": {
+              "show": true,
+              "heading": "want to buy sofa?",
+              "desc1": "desc1111!!!",
+              "desc2": "desc11111222222222222222",
+              "buttons": [
+                {
+                  "name": "1st Button",
+                  "link_type": "internal",
+                  "url": "/about",
+                  "action": "",
+                  "icon": "mdi-cupcake",
+                  "text": false,
+                  "outlined": true,
+                  "plain": true,
+                  "rounded": true,
+                  "raised": true,
+                  "small": false,
+                  "large": false,
+                  "link": true,
+                  "xLarge": true,
+                  "xSmall": false,
+                  "background": "#ab1212",
+                  "color": "white"
+                },
+                {
+                  "link_type": "external",
+                  "url": "https://google.com",
+                  "action": "",
+                  "icon": "mdi-cupcake",
+                  "text": false,
+                  "outlined": true,
+                  "plain": true,
+                  "rounded": false,
+                  "raised": true,
+                  "name": "2st Button",
+                  "small": false,
+                  "large": false,
+                  "link": true,
+                  "xLarge": true,
+                  "xSmall": false,
+                  "background": "#ab1212",
+                  "color": "white"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "section1": {
+      "settings": {
+        "heading": "Why us?",
+        "desc1": "Why us? sharam krlo thodi",
+        "desc2": "paise yahi kam hai sabse",
+        "max_width": "250",
+        "min_width": "250",
+        "elevation": "3",
+        "shaped": true,
+        "flat": false
+      },
+      "infoItems": [
+        {
+          "icon": "",
+          "image": "",
+          "image_thumb": "",
+          "ii_size": "1",
+          "background_color": "",
+          "background_img": "https://lookimg.com/images/2018/07/06/dYXHs.jpg",
+          "heading": "",
+          "heading_color": "black",
+          "desc1": "",
+          "desc1_color": "black",
+          "desc2": "",
+          "desc2_color": "black",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "image": "https://lookimg.com/images/2019/03/24/l7868.jpg",
+          "image_thumb": "https://lookimg.com/images/2019/03/24/l7868.th.jpg",
+          "ii_size": "100",
+          "background_color": "",
+          "background_img": "",
+          "heading": "122",
+          "heading_color": "black",
+          "desc1": "222",
+          "desc1_color": "black",
+          "desc2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "desc2_color": "black",
+          "buttons": [
+            {
+              "name": "",
+              "link_type": "internal",
+              "url": "",
+              "action": "",
+              "icon": "mdi-heart-settings",
+              "text": true,
+              "outlined": false,
+              "plain": false,
+              "rounded": false,
+              "raised": true,
+              "small": true,
+              "large": false,
+              "link": false,
+              "xLarge": false,
+              "xSmall": false,
+              "background": "",
+              "color": "black"
+            }
+          ]
+        },
+        {
+          "icon": "mdi-account-child",
+          "icon_color": "pink",
+          "image": "",
+          "image_thumb": "",
+          "ii_size": "100",
+          "background_color": "",
+          "background_img": "",
+          "heading": "122",
+          "heading_color": "black",
+          "desc1": "222",
+          "desc1_color": "black",
+          "desc2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "desc2_color": "black",
+          "buttons": [
+            {
+              "name": "",
+              "link_type": "internal",
+              "url": "",
+              "action": "",
+              "icon": "mdi-heart-settings",
+              "text": true,
+              "outlined": false,
+              "plain": false,
+              "rounded": false,
+              "raised": true,
+              "small": true,
+              "large": false,
+              "link": false,
+              "xLarge": false,
+              "xSmall": false,
+              "background": "",
+              "color": "black"
+            }
+          ]
+        }
+      ]
+    },
+    "section2": {
+      "settings": {
+        "icon": "mdi-heart-settings",
+        "icon_color": "red",
+        "image": "",
+        "image_thumb": "",
+        "ii_size": "100",
+        "background_color": "pink",
+        "background_img": "https://lookimg.com/images/2018/12/02/cjXfR.png",
+        "heading": "111",
+        "heading_color": "white",
+        "desc1": "22222",
+        "desc1_color": "white",
+        "desc2": "3",
+        "desc2_color": "white",
+        "max_width": "100vw",
+        "min_width": "60vw",
+        "elevation": "3",
+        "shaped": false,
+        "flat": true,
+        "buttons": []
+      }
+    },
+    "section3": {
+      "settings": {
+        "heading": "Why us?",
+        "desc1": "Why us? sharam krlo thodi",
+        "desc2": "paise yahi kam hai sabse",
+        "max_width": "250",
+        "min_width": "250",
+        "elevation": "1",
+        "shaped": false,
+        "flat": false
+      },
+      "infoItems": [
+        {
+          "icon": "",
+          "icon_color": "",
+          "image": "https://lookimg.com/images/2019/03/24/l7868.jpg",
+          "image_thumb": "https://lookimg.com/images/2019/03/24/l7868.th.jpg",
+          "ii_size": "150",
+          "background_color": "",
+          "background_img": "",
+          "heading": "122",
+          "heading_color": "black",
+          "desc1": "222",
+          "desc1_color": "black",
+          "desc2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "10,000",
+          "price_color": "green",
+          "rating": 3.7,
+          "rating_by": "200",
+          "buttons": [
+            {
+              "name": "",
+              "link_type": "internal",
+              "url": "",
+              "action": "",
+              "icon": "mdi-heart-settings",
+              "text": true,
+              "outlined": false,
+              "plain": false,
+              "rounded": false,
+              "raised": true,
+              "small": true,
+              "large": false,
+              "link": false,
+              "xLarge": false,
+              "xSmall": false,
+              "background": "",
+              "color": "black"
+            }
+          ]
+        },
+        {
+          "icon": "mdi-android-auto",
+          "icon_color": "yellow",
+          "image": "",
+          "image_thumb": "",
+          "ii_size": "150",
+          "background_color": "",
+          "background_img": "",
+          "heading": "1 2 2",
+          "heading_color": "red",
+          "desc1": "2 2 2",
+          "desc1_color": "black",
+          "desc2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "10,000",
+          "price_color": "green",
+          "rating": 3.7,
+          "rating_by": "200",
+          "buttons": [
+            {
+              "name": "",
+              "link_type": "internal",
+              "url": "",
+              "action": "",
+              "icon": "mdi-heart-settings",
+              "text": true,
+              "outlined": false,
+              "plain": false,
+              "rounded": false,
+              "raised": true,
+              "small": true,
+              "large": false,
+              "link": false,
+              "xLarge": false,
+              "xSmall": false,
+              "background": "",
+              "color": "black"
+            }
+          ]
+        }
+      ]
+    },
+    "section4": {
+      "settings": {
+        "heading": "Tranding Products",
+        "desc1": "",
+        "desc2": "",
+        "max_width": "250",
+        "min_width": "250",
+        "elevation": "1",
+        "shaped": false,
+        "flat": false
+      },
+      "infoItems": [
+        {
+          "icon": "",
+          "icon_color": "",
+          "image": "https://lookimg.com/images/2020/05/15/PU9G4g.jpg",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9G4g.th.jpg",
+          "ii_size": "250",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair/Sofa",
+          "heading_color": "white",
+          "desc1": "Chair",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "image": "https://lookimg.com/images/2020/05/15/PU9cyR.jpg",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9cyR.th.jpg",
+          "ii_size": "250",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair",
+          "heading_color": "white",
+          "desc1": "Chair/Sofa",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "image": "https://lookimg.com/images/2020/05/15/PU9cyR.jpg",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9cyR.th.jpg",
+          "ii_size": "250",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair",
+          "heading_color": "white",
+          "desc1": "Chair/Sofa",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "image": "https://lookimg.com/images/2020/05/15/PU9cyR.jpg",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9cyR.th.jpg",
+          "ii_size": "250",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair",
+          "heading_color": "white",
+          "desc1": "Chair/Sofa",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        }
+      ]
+    },
+    "section5": {
+      "settings": {
+        "heading": "Category",
+        "desc1": "Category",
+        "desc2": ""
+      },
+      "infoItems": [
+        {
+          "icon": "",
+          "icon_color": "",
+          "link": true,
+          "link_type": "internal",
+          "url": "/about",
+          "image": "https://lookimg.com/images/2020/04/26/PZ8waJ.jpg",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9G4g.th.jpg",
+          "ii_size": "3",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair/Sofa",
+          "heading_color": "white",
+          "desc1": "Chair",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "link": true,
+          "link_type": "ext",
+          "url": "https://google.com",
+          "image": "https://lookimg.com/images/2018/06/30/d9xaW.png",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9G4g.th.jpg",
+          "ii_size": "3",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair/Sofa",
+          "heading_color": "white",
+          "desc1": "Chair",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "link": true,
+          "link_type": "internal",
+          "url": "/about",
+          "image": "https://lookimg.com/images/2020/05/15/PU9G4g.jpg",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9G4g.th.jpg",
+          "ii_size": "3",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair/Sofa",
+          "heading_color": "white",
+          "desc1": "Chair",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "link": true,
+          "link_type": "ext",
+          "url": "https://google.com",
+          "image": "https://lookimg.com/images/2018/06/30/d9xaW.png",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9G4g.th.jpg",
+          "ii_size": "3",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair/Sofa",
+          "heading_color": "white",
+          "desc1": "Chair",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "link": false,
+          "link_type": "ext",
+          "url": "https://google.com",
+          "image": "https://lookimg.com/images/2020/05/15/PU9G4g.jpg",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9G4g.th.jpg",
+          "ii_size": "6",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair/Sofa",
+          "heading_color": "white",
+          "desc1": "Chair",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        },
+        {
+          "icon": "",
+          "icon_color": "",
+          "link": false,
+          "link_type": "ext",
+          "url": "https://google.com",
+          "image": "https://lookimg.com/images/2021/04/29/Pb8Srs.jpg",
+          "image_thumb": "https://lookimg.com/images/2020/05/15/PU9G4g.th.jpg",
+          "ii_size": "6",
+          "background_color": "",
+          "background_img": "",
+          "heading": "Chair/Sofa",
+          "heading_color": "white",
+          "desc1": "Chair",
+          "desc1_color": "white",
+          "desc2": "",
+          "desc2_color": "black",
+          "currency": "₹",
+          "currency_color": "red",
+          "price": "",
+          "price_color": "green",
+          "rating": null,
+          "rating_by": "",
+          "buttons": []
+        }
+      ]
+    },
+    "section6": {
+      "settings": {
+        "form": {
+          "url": "http://localhost:8888/index.php",
+          "subject": "Newsletter",
+          "for": "newsletter"
+        },
+        "btn_color": "red",
+        "btn_text_color": "white",
+        "form_category": "newsletter",
+        "form_placeholder": "Enter your mobile or email",
+        "icon": "mdi-heart-settings",
+        "icon_color": "red",
+        "image": "",
+        "image_thumb": "",
+        "ii_size": "100",
+        "background_color": "pink",
+        "background_img": "https://lookimg.com/images/2021/04/29/Pb8Kac.png",
+        "heading": "newww letter",
+        "heading_color": "white",
+        "desc1": "newww letter",
+        "desc1_color": "white",
+        "desc2": "3",
+        "desc2_color": "white",
+        "max_width": "90%",
+        "min_width": "10%",
+        "elevation": "3",
+        "shaped": false,
+        "flat": true
+      }
+    },
+    "section7": {
+      "settings": {
+        "form": {
+          "url": "http://localhost:8888/index.php",
+          "subject": "Contact Us",
+          "for": "contactus"
+        },
+        "btn_color": "red",
+        "btn_text_color": "white",
+        "form_category": "contactus",
+        "icon": "mdi-heart-settings",
+        "icon_color": "red",
+        "image": "",
+        "image_thumb": "",
+        "ii_size": "100",
+        "background_color": "pink",
+        "background_img": "https://lookimg.com/images/2021/04/30/Pb0vNA.jpg",
+        "heading": "Contact Us............",
+        "heading_color": "white",
+        "desc1": "Contact Us",
+        "desc1_color": "white",
+        "desc2": "Contact Us",
+        "desc2_color": "white",
+        "max_width": "90%",
+        "min_width": "10%",
+        "elevation": "3",
+        "shaped": true,
+        "flat": true
+      }
+    },
+    "section8": {
+      "settings": {
+        "icon": "mdi-heart-settings",
+        "icon_color": "red",
+        "image": "",
+        "image_thumb": "",
+        "ii_size": "100",
+        "background_color": "pink",
+        "background_img": "https://www.loudwallpapers.com/wp-content/uploads/2018/10/northern-lights-forest-wallpaper.jpg",
+        "heading": "111",
+        "heading_color": "white",
+        "desc1": "22222",
+        "desc1_color": "white",
+        "desc2": "3",
+        "desc2_color": "white",
+        "max_width": "100vw",
+        "min_width": "100vw",
+        "elevation": "3",
+        "shaped": false,
+        "flat": true,
+        "": "",
+        "sections": [
+          {
+            "heading": "name",
+            "heading_color": "red",
+            "items": [
+              {
+                "heading": "1",
+                "heading_color": "red",
+                "link": true,
+                "link_type": "internal",
+                "url": "/about"
+              },
+              {
+                "heading": "2",
+                "heading_color": "red",
+                "link": true,
+                "link_type": "internal",
+                "url": "/about"
+              },
+              {
+                "heading": "3",
+                "heading_color": "red",
+                "link": true,
+                "link_type": "internal",
+                "url": "/about"
+              }
+            ]
+          },
+          {
+            "heading": "name",
+            "heading_color": "red",
+            "items": [
+              {
+                "heading": "1",
+                "heading_color": "red",
+                "link": true,
+                "link_type": "internal",
+                "url": "/about"
+              },
+              {
+                "heading": "2",
+                "heading_color": "red",
+                "link": true,
+                "link_type": "internal",
+                "url": "/about"
+              },
+              {
+                "heading": "3",
+                "heading_color": "red",
+                "link": true,
+                "link_type": "internal",
+                "url": "/about"
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "name1": "H1",
+          "name2": "H1",
+          "name3": "H1",
+          "name4": "H1",
+          "name1_color": "white",
+          "name2_color": "white",
+          "name3_color": "white",
+          "name4_color": "white",
+          "footer_color": "green",
+          "footer_text_color": "yellow",
+          "footer_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsu",
+          "links": [
+            {
+              "icon": "mdi-facebook",
+              "background_color": "blue",
+              "icon_color": "",
+              "url": ""
+            },
+            {
+              "icon": "mdi-twitter",
+              "background_color": "",
+              "icon_color": "",
+              "url": ""
+            },
+            {
+              "icon": "mdi-linkedin",
+              "background_color": "",
+              "icon_color": "",
+              "url": ""
+            },
+            {
+              "icon": "mdi-instagram",
+              "background_color": "",
+              "icon_color": "",
+              "url": ""
+            }
+          ]
+        }
+      }
+    }
+  }
