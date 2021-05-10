@@ -9,11 +9,11 @@ This is Beta version of this, soon we will have auto JSON generation and some op
 
 
 ## Demo & Screenshot (Sample Data)
-Live Demo @ 
+[Live Demo](https://ronakjain2012.github.io/masterlog/) @ https://ronakjain2012.github.io/masterlog/
+
+![enter image description here](https://raw.githubusercontent.com/ronakjain2012/masterlog/gh-pages/public/ss.png)
 
 ======================================
-![enter image description here](https://lookimg.com/images/2021/05/09/Pby9Yj.png)
-
 ## Project setup 
 ```
 npm install
@@ -32,3 +32,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # masterlog
+for any details or help please write email on ***ronakjain2012@gmail.com*** or find me on any social media by ***@ronakjain2012***
